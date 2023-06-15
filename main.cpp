@@ -79,6 +79,5 @@ int main() {
 
     delete myList;
     delete myStringList;
-
     return 0;
 }
